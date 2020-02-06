@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/IGO/static/css/main.63b94e12.chunk.css",
+    "main.js": "/IGO/static/js/main.bd88e2c0.chunk.js",
+    "main.js.map": "/IGO/static/js/main.bd88e2c0.chunk.js.map",
+    "runtime-main.js": "/IGO/static/js/runtime-main.e28d1f37.js",
+    "runtime-main.js.map": "/IGO/static/js/runtime-main.e28d1f37.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/IGO/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.14387353.chunk.js": "/IGO/static/js/2.14387353.chunk.js",
+    "static/js/2.14387353.chunk.js.map": "/IGO/static/js/2.14387353.chunk.js.map",
+    "index.html": "/IGO/index.html",
+    "precache-manifest.c0dca8d1a1e004641336264e501fb705.js": "/IGO/precache-manifest.c0dca8d1a1e004641336264e501fb705.js",
+    "service-worker.js": "/IGO/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/IGO/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.63b94e12.chunk.css.map": "/IGO/static/css/main.63b94e12.chunk.css.map",
+    "static/js/2.14387353.chunk.js.LICENSE": "/IGO/static/js/2.14387353.chunk.js.LICENSE",
+    "static/media/bg.gif": "/IGO/static/media/bg.c6556523.gif",
+    "static/media/counter-purple2.gif": "/IGO/static/media/counter-purple2.1e9441f6.gif",
+    "static/media/divider.gif": "/IGO/static/media/divider.bc1ceaae.gif",
+    "static/media/email.gif": "/IGO/static/media/email.94bf8caa.gif",
+    "static/media/kree.gif": "/IGO/static/media/kree.e5c5a5b1.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e28d1f37.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.14387353.chunk.js",
+    "static/css/main.63b94e12.chunk.css",
+    "static/js/main.bd88e2c0.chunk.js"
+  ]
+}
